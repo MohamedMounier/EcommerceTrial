@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64101800227",
+    "project_id": "dal3k-7d1dc",
+    "storage_bucket": "dal3k-7d1dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64101800227:android:25d128b5516ed7a8051496",
+        "android_client_info": {
+          "package_name": "com.accessories_utube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64101800227-cmtu73k1s58vo5moduffr2vgv7gkdvbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlFlO0p9b9nAFbZ1cJzOPuzF09lErScA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64101800227-cmtu73k1s58vo5moduffr2vgv7gkdvbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
